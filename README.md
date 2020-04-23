@@ -1,1 +1,16 @@
-# 21.04.2020-16.10
+# test-as
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
